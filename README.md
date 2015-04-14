@@ -1,2 +1,2 @@
 # scripts
-everyday Scripts
+everyday Scripts that are used to perform analysis
